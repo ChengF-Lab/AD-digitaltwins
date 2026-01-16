@@ -1,4 +1,4 @@
-## The code and supporting data for paper "Single-cell digital twins identify new targets and repurposable drugs in Alzheimer’s disease"
+## The code and supporting data for paper "Cell type-specific gene regulatory atlas prioritizes drug targets and repurposable medicines in Alzheimer’s disease"
 
 
 ### Code
